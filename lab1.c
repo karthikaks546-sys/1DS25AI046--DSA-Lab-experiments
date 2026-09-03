@@ -135,7 +135,7 @@ int main() {
     }
     printf("Sum of all elements in the array is: %d\n", sum);
 
-    // completing the lab1 prohram..
+    // completing the lab1 programs. 
 
     return 0;
 }
